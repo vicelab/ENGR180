@@ -1,3 +1,4 @@
+#create vector river lines based on spline fit of array of grid points
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import CubicSpline
